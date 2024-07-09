@@ -1,5 +1,5 @@
 
-# Hotel Reservation Analysis with SQL
+# Hotel Reservation Analysis using SQL
 
 ## Project Description:
 
