@@ -1,4 +1,5 @@
-![image](https://github.com/KhaledMoheyD/Hotel-Reservation-Analysis-with-SQL-/assets/38184987/86f3e551-ada0-4e95-8766-b2d7bc9f10bd)# Hotel Reservation Analysis with SQL
+
+# Hotel Reservation Analysis with SQL
 
 ## Project Description:
 
@@ -21,3 +22,4 @@ We will work with a hotel reservation dataset to gain insights into guest prefer
 - What is the average number of nights (both weekend and weekday) spent by guests for each room type?
 - For reservations involving children, what is the most common room type, and what is the average price for that room type?
 - Find the market segment type that generates the highest average price per room.
+
