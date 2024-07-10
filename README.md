@@ -5,6 +5,15 @@
 
 We will work with a hotel reservation dataset to gain insights into guest preferences, booking trends, and other key factors that impact the hotel's operations. We will use SQL to query and analyze the data, as well as answer specific questions about the dataset.
 
+## Installation:
+To run this project, download and install DB Browser for SQLite [https://sqlitebrowser.org/]
+
+## Tools 
+- DB Browser
+- SQL
+- Microsoft Excel
+
+  
 ## Questions that are Answered in this project:
 
 - What is the total number of reservations in the dataset?
