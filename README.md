@@ -8,10 +8,13 @@ We will work with a hotel reservation dataset to gain insights into guest prefer
 ## Installation:
 To run this project, download and install DB Browser for SQLite [https://sqlitebrowser.org/]
 
-## Tools 
+## Tools:
 - DB Browser
 - SQL
 - Microsoft Excel
+
+## Dataset:
+https://github.com/KhaledMoheyD/Hotel-Reservation-Analysis-using-SQL-/blob/main/Hotel%20Reservation%20Dataset.csv
 
   
 ## Questions that are Answered in this project:
